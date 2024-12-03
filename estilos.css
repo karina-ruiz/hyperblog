@@ -3,13 +3,10 @@ body{
     font-family: Arial;
     color: blue;
 }
-#container{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px pink;
-    margin: 0 auto;
-}
-#container h1 {
-    font-size: 20px;
+#post{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    color: brown;
+
 }
